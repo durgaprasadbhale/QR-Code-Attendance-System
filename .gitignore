@@ -34,3 +34,6 @@ Desktop.ini
 
 # Environment files
 .env
+# Generated Project Files
+reports/
+qrcodes/
