@@ -1,5 +1,15 @@
 # QR Code Attendance Management System
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Maven](https://img.shields.io/badge/Maven-3.9-red)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.12-green)
+![ZXing](https://img.shields.io/badge/ZXing-3.5.3-yellow)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
+A Java-based QR Code Attendance Management System using **OpenCV**, **ZXing**, **MySQL**, **Apache POI**, and **Jakarta Mail**.
+# QR Code Attendance Management System
+
 ## 📌 Overview
 
 The QR Code Attendance Management System is a Java desktop application designed to automate student attendance using QR code technology.
