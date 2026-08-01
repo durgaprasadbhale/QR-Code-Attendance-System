@@ -12,7 +12,7 @@ public class DBConnection {
 
     public static Connection getConnection() {
         try {
-            Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);
+            Connection connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
             System.out.println("Database Connected Successfully!");
             return connection;
         } catch (SQLException e) {
