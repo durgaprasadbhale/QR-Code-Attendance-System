@@ -1,0 +1,36 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# OpenCV native libraries
+*.dll
+
+# Environment files
+.env
